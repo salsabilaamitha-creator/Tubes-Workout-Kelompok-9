@@ -4,7 +4,8 @@ Tugas Besar Algoritma Pemrograman
 Kelompok 9
 
 ## 👥 Anggota Kelompok
-| Salsabila Amitha Dlah Pramaiswari | 108102500047 |
+| Salsabila Amitha Diah Pramaiswari | 108102500047 |
+
 | Nadya Rahmawati | 108102530009 |
 
 ## 📋 Deskripsi Program
