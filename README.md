@@ -4,9 +4,8 @@ Tugas Besar Algoritma Pemrograman
 Kelompok 9
 
 ## 👥 Anggota Kelompok
-| Salsabila Amitha Diah Pramaiswari | 108102500047 |
-
-| Nadya Rahmawati | 108102530009 |
+1.  Salsabila Amitha Diah Pramaiswari (108102500047)
+2.  Nadya Rahmawati (108102530009)
 
 ## 📋 Deskripsi Program
 Program ini adalah aplikasi manajemen workout harian yang memungkinkan pengguna untuk:
