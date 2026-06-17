@@ -1,4 +1,4 @@
-# Aplikasi Manajemen Workout Harian
+# Aplikasi Manajemen dan Pencatatan Workout Harian
 
 Tugas Besar Algoritma Pemrograman  
 Kelompok 9
